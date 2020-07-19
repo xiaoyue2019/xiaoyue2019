@@ -2,7 +2,7 @@
 
  `区块链` / `网络安全` / `程序猿`  /
 
- `渗透测试` / `Solidity` / `Python` /
+ `渗透测试` / `Solidity` / `Python` / `CTFER`
 
 ---
 
