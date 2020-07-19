@@ -2,7 +2,7 @@
 
  `区块链` / `网络安全` / `程序猿`  /
 
- `Python` / `Solidity` / `渗透测试` /
+ `渗透测试` / `Solidity` / `Python` /
 
 ---
 
