@@ -14,7 +14,7 @@
 >
 > 🥉**CSDN:** https://blog.csdn.net/xiaoyue2019
 >
-> 😁**Weichat:** **balala-eth**
+> 😁**Wechat:** **balala-eth**
 
 
 <img src="https://xiaoyue-blog.oss-cn-hangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200720134131.jpg"  width="20%" height="20%" />
