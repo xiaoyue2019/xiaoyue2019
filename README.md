@@ -8,7 +8,7 @@
 
 **欢迎通过以下方式了解我**
 
-> 🥇**Blog:** https://cnmf.net.cn/
+> 🥇**Blog:** https://x1a0.net/
 >
 > 🥈**GitHub:** https://github.com/xiaoyue2019
 >
